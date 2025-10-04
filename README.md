@@ -1,2 +1,5 @@
 # blur.im
-I'm blur~~
+
+I'm blurim~~
+
+Visit [Blurim](https://blur.im)
